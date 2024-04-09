@@ -1,0 +1,37 @@
+.box{
+    font-family: sans-serif;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 50px auto;
+    width: 400px;
+    padding: 40px;
+}
+p{
+    color: gray;
+}
+.pic{
+    margin-top: 30px;
+    margin-left: -80px;
+    padding-left: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.pic img{
+    height: 100px;
+    border-radius: 50%;
+}
+.foot{
+    border-top: 1px solid gray;
+    padding: 8px;
+    margin-left: -40px;
+    margin-right: -41px;
+    margin-bottom: -30px;
+    margin-top: 33px;
+
+}
+.foot a{
+    text-decoration: none;
+    color: blue;
+}
